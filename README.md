@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **cloud computing**
 
-- 👨‍💻 All of my projects are available at [[https://mohamedfahim1234.github.io/MyPortfolio/vcard-personal-portfolio/index.html](https://mohamedfahim1234.github.io/Fahim-Portfolio/)](https://mohamedfahim1234.github.io/MyPortfolio/vcard-personal-portfolio/index.html)
+- 👨‍💻 All of my projects are available at [[https://mohamedfahim1234.github.io/Fahim-Portfolio/](https://mohamedfahim1234.github.io/Fahim-Portfolio/)]
 
 - 📫 How to reach me **mdfahim52060@gmail.com**
 
